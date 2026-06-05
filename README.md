@@ -2,6 +2,8 @@
 List of Computer Vision Projects with Full Implementation codes
 
 
+▶ A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Computer%20Vision/qualcomm_ai_hub_models_end_to_end_colab_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/)
+
 ▶ [Tutorial] How to Build a Lightweight Vision-Language-Action-Inspired Embodied Agent with Latent World Modeling and Model Predictive Control [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Computer%20Vision/embodied_vla_latent_mpc_agent_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/27/how-to-build-a-lightweight-vision-language-action-inspired-embodied-agent-with-latent-world-modeling-and-model-predictive-control/)
 
 ▶ [Tutorial] A Coding Implementation of MolmoAct for Depth-Aware Spatial Reasoning, Visual Trajectory Tracing, and Robotic Action Prediction [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Computer%20Vision/molmoact_spatial_reasoning_action_prediction_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/12/a-coding-implementation-of-molmoact-for-depth-aware-spatial-reasoning-visual-trajectory-tracing-and-robotic-action-prediction/)
