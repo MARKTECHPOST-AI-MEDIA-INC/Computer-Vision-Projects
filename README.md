@@ -2,6 +2,8 @@
 List of Computer Vision Projects with Full Implementation codes
 
 
+▶ Using Lift to Turn Research PDFs into Structured JSON with Controlled, Schema-Guided Field-Level Evaluation [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/lift_schema_guided_pdf_extraction_benchmark_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/07/01/using-lift-to-turn-research-pdfs-into-structured-json-with-controlled-schema-guided-field-level-evaluation/)
+
 ▶ OCRmyPDF Tutorial: Convert Scanned Documents into Searchable PDF/A Files with Sidecar Text Extraction and Batch Processing [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Computer%20Vision/ocrmypdf_searchable_pdf_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/28/ocrmypdf-tutorial-convert-scanned-documents-into-searchable-pdf-a-files-with-sidecar-text-extraction-and-batch-processing/)
 
 ▶ A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Computer%20Vision/qualcomm_ai_hub_models_end_to_end_colab_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/)
